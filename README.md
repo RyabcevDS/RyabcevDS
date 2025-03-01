@@ -1,15 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&weight=500&size=23&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%94%D0%B8%D0%BC%D0%B0%2C+%D0%B8+%D1%8F+QA+Engineer;%D0%A0%D0%B0%D0%B4+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B7%D0%B4%D0%B5%D1%81%D1%8C+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C!)]()
+# 🛠️ QA Enginner
 
-## Моё Резюмеэ
-[![Static Badge](https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-31c4c4?style=for-the-badge&logoColor=black)](https://drive.google.com/file/d/1prdWtTePVr2k7srSMfWMHcwLRI6axJjJ/view?usp=sharing)
+Привет, меня зовут Дима, я начинающий тестировщик! В моем репозитории, вы можете ознакомиться с моим опытом написания автотестов на API и UI, со временем дополню другими практиками! 
 
-## Стек
-![Static Badge](https://img.shields.io/badge/postman-31c4c4?style=for-the-badge&logo=postman&logoColor=#FF6C37)
-![Static Badge](https://img.shields.io/badge/Charles-31c4c4?style=for-the-badge&logo=Charles&logoColor=#F3F5F5)
-![Static Badge](https://img.shields.io/badge/PGSQL-31c4c4?style=for-the-badge&logo=miro&logoColor=%23ffe771b3)
-![Static Badge](https://img.shields.io/badge/Python-31c4c4?style=for-the-badge&logo=python&logoColor=White)
-![Static Badge](https://img.shields.io/badge/Cypress-31c4c4?style=for-the-badge&logo=cypress&logoColor=black)
+## 📂 Содержание
+- [Автотесты на API](#-автотесты-на-API)
+- [Автотесты на UI](#-автотесты-на-UI)
+- [Мой стек](#-мой-стек)
+- [Резюме](#-мой-стек)
 
-## Связь со мной
-[![Static Badge](https://img.shields.io/badge/Telegram-31c4c4?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://t.me/RyabcevDS)
+## 🐍 Автотесты на API
+Тестирование API с использованием PyTest и requests. <br>
+[**Ссылка на тесты**](https://github.com/RyabcevDS/Pytest-Requests)
 
+## 🎭 Автотесты на UI
+Тестирование UI с Playwright на Python. <br>
+[**Ссылка на тесты**](https://github.com/RyabcevDS/Playwright)
+
+## 🛠 Мой стек
+- 🔗 **Автоматизированное тестирование UI**: Cypress, Playwright
+- 🔗 **Автоматизированное тестирование API**: PyTest, requests
+- 💾 **Базы данных**: SQL запросы средней сложности (Join, Group by, Order by)
+- 📊 **Kafka**: основы работы с очередями сообщений
+- 📝 **Методологии тестирования**: функциональное и нефункциональное тестирование, тест-дизайн
+- 🖥️ **PostMan**: Работа с запросами, переменными, окружениями, простые автотесты с использованием снипетов
+- 🖥️ **Charles**: Сниффинг трафика, подмена запросов
+- 📈 **Kibana, Sentry, Grafana**: Работа с логами и продуктовыми дашбордами
+
+## 📄 Резюме
+[**Ссылка на резюме**](https://drive.google.com/file/d/1prdWtTePVr2k7srSMfWMHcwLRI6axJjJ/view)
+## 📞 Контакты
+
+Если у вас есть вопросы или предложения, свяжитесь со мной:
+- 💬 Telegram: [@ryabcevds](https://t.me/RyabcevDS)
+- 📧 Email: [ryabcevds@mail.ru](mailto:your.email@example.com)
+
+---
